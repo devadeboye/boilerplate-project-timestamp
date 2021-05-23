@@ -10,7 +10,7 @@ Build a full stack JavaScript app that is functionally similar to this: https://
 
 When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your projects source code in the GitHub Link field.
 
-###Requirements:###
+### Requirements:
 - You should provide your own project, not the example URL.
 - A request to /api/:date? with a valid date should return a JSON object with a unix key that is a Unix timestamp of the input date in milliseconds
 - A request to /api/:date? with a valid date should return a JSON object with a utc key that is a string of the input date in the format: Thu, 01 Jan 1970 00:00:00 GMT
